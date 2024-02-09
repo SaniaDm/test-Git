@@ -27,4 +27,5 @@ git status - команда, вызова блока инф. по состоян
 ## lesson 2
 
 git branch - выводит ветки
+branch
 
